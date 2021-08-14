@@ -1,0 +1,3 @@
+SECRET_KEY=<secret_key>
+DEBUG=<on/off>
+ALLOWED_HOSTS=*
